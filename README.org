@@ -17,7 +17,7 @@ To use this configuration layer, add it to your =~/.spacemacs=. You will need to
 add =org-toodledo= to the existing =dotspacemacs-configuration-layers= list in this
 file.
 
-You will also need to set your userid, password, and the location of the org file you will be syncing your toodledo tasks with.  Add the following code into your =dotspacemacs-user-config= to allow synchronization with the Toodledo service. Further info on setup of the org-toodledo package can be found [https://github.com/christopherjwhite/org-toodledo][https://github.com/christopherjwhite/org-toodledo
+You will also need to set your userid, password, and the location of the org file you will be syncing your toodledo tasks with.  Add the following code into your =dotspacemacs-user-config= to allow synchronization with the Toodledo service. Further info on setup of the org-toodledo package can be found [https://github.com/christopherjwhite/org-toodledo](https://github.com/christopherjwhite/org-toodledo).
 
 
 #+BEGIN_SRC 
