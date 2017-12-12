@@ -67,6 +67,7 @@
     (progn
       (spacemacs/set-leader-keys-for-major-mode 'org-mode
         "gd" 'org-toodledo-mark-task-deleted
+        "ga" 'org-toodledo-agenda-mark-task-deleted
         "gs" 'org-toodledo-sync))))
 
 ;;; packages.el ends here
